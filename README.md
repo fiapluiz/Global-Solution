@@ -19,3 +19,4 @@ React Native library for fitness & health tracking, based on **Google Fit** (And
 Check out our [documentation.](https://kilohealth.github.io/rn-fitness-tracker/docs/fundamentals/getting-started)
 # Global-Solution
 # Global-Solution
+# Global-Solution
